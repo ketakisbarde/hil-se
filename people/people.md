@@ -32,5 +32,10 @@ We are hiring!
 
 ### Master Students
 
-#### Ketaki
+#### Ketaki Barde, MS Data Science
+
+Ketaki Barde is a graduate student at Data Science Program in Golisano School of Computing and Information Science, RIT since Fall 2019. She is working as a research assistant under the guidance of Dr. Zhe Yu with the [hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md) lab. Her primary project involves software technical debt identification using deep learning models. Her interest lies in dissecting various machine learning and deep learning models and applying analytics to investigate and solve real world problems involving human-AI synchrony. 
+
+- **Experience:**
+ Research Assistantship -[hil-se lab](https://github.com/hil-se/hil-se/blob/main/README.md) | Teaching Assitantship - [Foundation of Data Science] (https://github.com/ketakisbarde/DSCI-633), DSCI -633, [Applied Statistics, STAT 614, STAT 144, STAT 145] | Data Science and Machine Learning Co-op, [VPG Medical](https://www.vpgmedical.com) 
 
